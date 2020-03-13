@@ -4,8 +4,6 @@
 
 
 ## Progression 1:
-
-Create a class called as `Main` with main method 
 Create a class called as `Team` with below attributes, 
 ```
 name - String 
@@ -42,7 +40,9 @@ Create a dao-class called as `CityDA0` with below methods,
 Create a dao-class called as `TeamDAO` to insert user into the database, 
 `public void createTeam(Team team)` - Method used to insert new team into the database
 
+## Progression 5:
 
+Create a class called as `Main` with main method. Create appropriate objects and call the methods.
 
 ![1 2](https://user-images.githubusercontent.com/61002120/76416050-5807d380-63c0-11ea-8d52-9e8750e800f9.png)
 
