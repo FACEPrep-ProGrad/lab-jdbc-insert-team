@@ -1,5 +1,4 @@
 package model;
-
 public class Team<City>
 {
 private String	name;

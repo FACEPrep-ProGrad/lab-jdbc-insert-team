@@ -9,7 +9,6 @@ import dao.CityDAO;
 import dao.TeamDAO;
 import model.City;
 import model.Team;
-
 public class Main 
 
 {
@@ -39,7 +38,6 @@ public class Main
 		String captianName = br.readLine();
 		
 		team = new Team(name,coachName,captianName,city);
-		
 		teamdao.createTeam(team);
 		
 		System.out.println("Team Details are :");

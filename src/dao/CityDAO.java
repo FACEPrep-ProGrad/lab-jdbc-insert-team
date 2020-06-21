@@ -38,7 +38,6 @@ public class CityDAO
 			System.out.println("Captain Name : "+rs.getString(3));
 			System.out.println("City ID : "+rs.getLong(4));
 			System.out.println("City Name : "+rs.getString(5));
-			
 			}
 		}
 		

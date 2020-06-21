@@ -11,7 +11,6 @@ public class City
 		this.cityname = cityName;
 	}
 	
-
 	public long getCityId() {
 		return cityid;
 	}

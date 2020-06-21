@@ -25,6 +25,7 @@ public class ConnectionManager{
 		InputStream in = ConnectionManager.class.getClassLoader().getResourceAsStream("jdbc.properties");
 		 prop.load(in);
 		 in.close();
+		 
 		 return prop;
 	}
 }
